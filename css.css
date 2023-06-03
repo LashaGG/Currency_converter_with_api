@@ -3,8 +3,8 @@
     max-height: 1300px;
     margin: 0 auto;
     padding: 20px;
-    transform: scale(1.5); /* Increase the size by 20% */
-    transform-origin: top center; /* Set the transform origin to top center */
+    transform: scale(1.5);
+    transform-origin: top center;
 }
 
 .header {
