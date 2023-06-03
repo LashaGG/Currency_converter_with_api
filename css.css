@@ -70,11 +70,9 @@ body {
     font-weight: bold;
 }
 
-/* Media Queries */
-
 @media (max-width: 600px) {
     .container {
-        max-width: 100%;
+        max-width: 420px;
         margin: 0;
         padding: 10px;
         transform: scale(1);
@@ -95,4 +93,6 @@ body {
         font-size: 14px;
     }
 }
+
+
 
