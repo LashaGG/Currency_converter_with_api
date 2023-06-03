@@ -1,5 +1,5 @@
 
-alert("Prices of Currencies from API may be inaccurate")
+alert("The exchange rates of currencies obtained from the API may not be 100% accurate")
 
 
 document.addEventListener("keydown", function (event) {
